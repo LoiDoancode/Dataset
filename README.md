@@ -4,7 +4,7 @@
 
 ## 1. Giới thiệu
 
-Đề tài tập trung vào việc phân tích hành vi truy cập website thương mại điện tử và dự đoán khả năng khách hàng có phát sinh giao dịch mua hàng hay không.
+Đề tài tập trung vào phân tích hành vi truy cập website thương mại điện tử và dự đoán khả năng khách hàng có phát sinh giao dịch mua hàng hay không.
 
 Dataset được sử dụng là **Online Shoppers Purchasing Intention Dataset**, lấy từ Kaggle. Bộ dữ liệu này có nguồn gốc từ **UCI Machine Learning Repository**, gồm **12.330 phiên truy cập**, với biến mục tiêu là `Revenue`, cho biết phiên truy cập đó có kết thúc bằng giao dịch mua hàng hay không.
 
